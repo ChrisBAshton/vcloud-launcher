@@ -1,3 +1,8 @@
+**NOTICE**
+
+This repo is now archived, as it is no longer in use on GOV.UK.
+See https://github.com/alphagov/govuk-puppet/pull/11879 for more information.
+
 vCloud Launcher
 ===============
 A tool that takes a YAML or JSON configuration file describing a vDC, and
